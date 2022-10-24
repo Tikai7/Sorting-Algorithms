@@ -1,40 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void tri_tas(int tab[], int tab_taille, int tab_middle)
-{
-    /*
-        --- Créer un Tas initial avec :
-        --- Tab = liste
-        --- Tab_taille = taille_liste
-        --- i = racine courante
-    */
-
-    for (int i = tab_middle; i > -1; i--)
-        creer_tas(tab, tab_taille, i);
-
-    /*
-        --- Récrer un tas en faisant
-        --- Inverser premier element (element + le plus) avec dernier
-        --- Refaire le tas avec comme taille n-1 (on prend plus en compte le dernier)
-
-    */
-
-    for (int i = tab_taille - 1; i > -1; i--)
-    {
-        int temp = tab[0];
-        tab[0] = tab[tab_taille - 1];
-        tab[tab_taille - 1] = temp;
-
-        //----- racine courante = 0 car on refait depuis le sommets
-        //----- i = taille_tableau car on prend plus en compte le dernier element
-        creer_tas(tab, i, 0);
-    }
-}
-
 void creer_tas(int tab[], int taille, int indice_racine)
 {
-
     //---- Max_racine = indice_racine courante
     int max_racine = indice_racine;
     //--- Fils droits et gauche
@@ -56,10 +24,41 @@ void creer_tas(int tab[], int taille, int indice_racine)
     {
         int temp = tab[indice_racine];
         tab[indice_racine] = tab[max_racine];
-        tab[max_racine] = tab[indice_racine];
+        tab[max_racine] = temp;
 
         //--- la nouvel racine est l'indice du fils qu'on a inversé
         creer_tas(tab, taille, max_racine);
+    }
+}
+
+void tri_tas(int tab[], int tab_taille, int tab_middle)
+{
+    /*
+        --- Créer un Tas initial avec :
+        --- Tab = liste
+        --- Tab_taille = taille_liste
+        --- i = racine courante
+    */
+
+    for (int i = tab_middle - 1; i >= 0; i--)
+        creer_tas(tab, tab_taille, i);
+
+    /*
+        --- Récrer un tas en faisant
+        --- Inverser premier element (element + le plus) avec dernier
+        --- Refaire le tas avec comme taille n-1 (on prend plus en compte le dernier)
+
+    */
+
+    for (int i = tab_taille - 1; i >= 0; i--)
+    {
+        int temp = tab[0];
+        tab[0] = tab[i];
+        tab[i] = temp;
+
+        //----- racine courante = 0 car on refait depuis le sommets
+        //----- i = taille_tableau car on prend plus en compte le dernier element
+        creer_tas(tab, i, 0);
     }
 }
 
