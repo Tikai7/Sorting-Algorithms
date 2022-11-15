@@ -1,6 +1,6 @@
 # Sort-Algos-Study
  
-# Comparaison between QuickSort/ HeapSort / MergeSort / InsertionSort
+ - Comparaison between QuickSort/ HeapSort / MergeSort / InsertionSort
 
 ![RAPIDE_REEL_THEORIQUE](https://user-images.githubusercontent.com/68500496/201984974-9da50b06-a625-4f04-ab7a-973ec6dc9687.png)
 ![TAS_REEL_THEORIQUE](https://user-images.githubusercontent.com/68500496/201984987-a132bade-b80b-489b-a0f8-f688b9ee07b1.png)
