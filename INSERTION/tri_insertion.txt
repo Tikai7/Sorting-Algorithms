@@ -1,0 +1,107 @@
+-- Configuration : Randomly filled --
+Size : 100000
+Duration 10.582000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 100000
+Duration 0.000000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 100000
+Duration 20.496000
+
+ --------------------------------------------
+-- Configuration : Randomly filled --
+Size : 200000
+Duration 37.144000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 200000
+Duration 0.000000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 200000
+Duration 74.557000
+
+ --------------------------------------------
+-- Configuration : Randomly filled --
+Size : 400000
+Duration 171.722000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 400000
+Duration 0.001000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 400000
+Duration 346.439000
+
+ --------------------------------------------
+-- Configuration : Randomly filled --
+Size : 800000
+Duration 724.295000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 800000
+Duration 0.001000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 800000
+Duration 1418.810000
+
+ --------------------------------------------
+-- Configuration : Randomly filled --
+Size : 3200000
+Duration 10990.025000 // 12445.891000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 3200000
+Duration 0.008000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 3200000
+Duration 23473.838000
+
+ --------------------------------------------
+
+ -- Configuration : Randomly filled --
+Size : 1024000
+Duration 3167.194000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 1024000
+Duration 928.419000 // 0.003000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 1024000
+Duration 2427.638000
+
+ --------------------------------------------
+-- Configuration : Randomly filled --
+Size : 2048000
+Duration 12445.891000 // 10990.025000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 2048000
+Duration 3741.285000 // 0.005000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 2048000 
+Duration 9491.351000
+
+ --------------------------------------------
+

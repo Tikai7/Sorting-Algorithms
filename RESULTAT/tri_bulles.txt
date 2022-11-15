@@ -1,0 +1,25 @@
+-- Configuration : Randomly filled --
+Size : 100000
+Duration 24.554000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 100000
+Duration 7.652000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 100000
+Duration 19.070000
+
+ --------------------------------------------
+-- Configuration : Randomly filled --
+Size : 200000
+Duration 122.049000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 200000
+Duration 31.100000
+
+ --------------------------------------------

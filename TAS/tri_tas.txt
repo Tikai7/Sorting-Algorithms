@@ -1,0 +1,164 @@
+-- Configuration : Randomly filled --
+Size : 100000
+Duration 0.020000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 100000
+Duration 0.014000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 100000
+Duration 0.014000
+
+ --------------------------------------------
+-- Configuration : Randomly filled --
+Size : 200000
+Duration 0.040000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 200000
+Duration 0.031000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 200000
+Duration 0.030000
+
+ --------------------------------------------
+-- Configuration : Randomly filled --
+Size : 400000
+Duration 0.089000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 400000
+Duration 0.070000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 400000
+Duration 0.063000
+
+ --------------------------------------------
+-- Configuration : Randomly filled --
+Size : 800000
+Duration 0.182000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 800000
+Duration 0.143000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 800000
+Duration 0.136000
+
+ --------------------------------------------
+-- Configuration : Randomly filled --
+Size : 3200000
+Duration 0.886000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 3200000
+Duration 0.607000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 3200000
+Duration 0.629000
+
+ --------------------------------------------
+-- Configuration : Randomly filled --
+Size : 6400000
+Duration 1.829000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 6400000
+Duration 1.277000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 6400000
+Duration 1.306000
+
+ --------------------------------------------
+-- Configuration : Randomly filled --
+Size : 12800000
+Duration 4.351000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 12800000
+Duration 2.666000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 12800000
+Duration 2.755000
+
+ --------------------------------------------
+-- Configuration : Randomly filled --
+Size : 25600000
+Duration 9.630000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 25600000
+Duration 5.453000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 25600000
+Duration 5.608000
+
+ --------------------------------------------
+-- Configuration : Randomly filled --
+Size : 51200000
+Duration 21.821000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 51200000
+Duration 11.429000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 51200000
+Duration 11.485000
+
+ --------------------------------------------
+-- Configuration : Randomly filled --
+Size : 1024000
+Duration 0.242000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 1024000
+Duration 0.181000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 1024000
+Duration 0.197000
+
+ --------------------------------------------
+-- Configuration : Randomly filled --
+Size : 2048000
+Duration 0.542000
+
+ --------------------------------------------
+-- Configuration : Sorted --
+Size : 2048000 
+Duration 0.368000
+
+ --------------------------------------------
+-- Configuration : Reverse sorted --
+Size : 2048000
+Duration 0.378000
+
